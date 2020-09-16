@@ -10,7 +10,3 @@ console.log("add :",add(2,3))
 // }
 const mul = (a,b) => a*b
 console.log("mul :",mul(2,3))
-
-function searchCustomer(customerName){
-
-}
